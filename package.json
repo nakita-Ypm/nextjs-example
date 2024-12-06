@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-example",
+  "scripts": {
+    "fmt": "npx @biomejs/biome format --write ./"
+  },
+  "dependencies": {
+    "next": "^15.0.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/node": "^22.10.1",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.7.2"
+  }
+}
