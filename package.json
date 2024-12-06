@@ -1,6 +1,7 @@
 {
   "name": "nextjs-example",
   "scripts": {
+    "deps": "rm -rf node_modules && rm -rf package-lock.json && npm install",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
