@@ -6,7 +6,7 @@
 
   "formatter": {
     "enabled": true,
-    "ignore": ["./node_modules/**", "./apps/nextjs/.next/"],
+    "ignore": ["./node_modules/**", ".next/"],
     "include": ["**/*.ts", "**/*.mts", "**/*.tsx", "**/*.json", "**/*.js", "**/*.mjs"],
     "indentStyle": "space",
     "indentWidth": 2,
