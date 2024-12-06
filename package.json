@@ -1,6 +1,9 @@
 {
   "name": "nextjs-example",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "fmt": "npx @biomejs/biome format --write ./"
   },
   "dependencies": {
